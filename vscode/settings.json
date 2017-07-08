@@ -1,0 +1,14 @@
+{
+    "editor.rulers": [80,100],
+    "python.pythonPath":"/.../virtualenvs/venv/bin/python",
+    "python.autoComplete.extraPaths": [
+        "/.../virtualenvs/venv/lib/python2.7/",
+        "/.../virtualenvs/venv/lib/python2.7/site-packages"
+    ],
+    "python.unitTest.pyTestArgs": [
+        "."
+    ],
+    "python.unitTest.pyTestEnabled": true,
+    "python.unitTest.unittestEnabled": false,
+    "python.unitTest.nosetestsEnabled": false
+}
